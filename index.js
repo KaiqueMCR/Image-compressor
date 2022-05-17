@@ -16,7 +16,6 @@ function resize(inputPath, outputPath, width) {
         compress(outputPath, './compressed/')
       }
     })
-  getRotation()
 }
 
 function compress(inputPath, outputPath) {
