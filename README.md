@@ -10,7 +10,7 @@
 
 ⚠️ to run this project you must have installed [Git](https://git-scm.com) and [Node](https://nodejs.org/en/).
 
-First of all install all dependences with:
+Once cloned the project on your machine install all dependences with:
 
 ```bash
 npm install
